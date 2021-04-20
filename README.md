@@ -48,3 +48,6 @@ The website must consist of 7 pages total, including:
 
 ## Data
 Open Weather Map API: https://openweathermap.org/api
+
+### Contact:
+Alex Arnold: alexnarnold630@gmail.com <br>
